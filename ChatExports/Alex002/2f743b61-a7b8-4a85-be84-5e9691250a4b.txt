@@ -1,0 +1,263 @@
+### 2024/05/02 09:47:33 | Mein Name ist Maximilian  ###
+Mein Name ist Maximilian 
+
+### 2024/05/02 09:47:34 | Alex002 ###
+Mein Name ist Maximilian , das ist ein… interessanter Name, um es mal nett auszudrücken 🧐
+
+### 2024/05/02 09:47:34 | Alex002 ###
+Wie geht es dir heute?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/05/02 09:47:43 | Mein Name ist Maximilian  ###
+Neutral
+
+### 2024/05/02 09:47:45 | Alex002 ###
+Das ist aber interessant, dass du dich „neutral“ fühlst. Geht das überhaupt? Naja… auch egal.
+
+### 2024/05/02 09:47:45 | Alex002 ###
+Was beschäftigt dich momentan am meisten? Woran möchtest du arbeiten?
+--------------------
+0. Stress
+1. Achtsamkeit
+
+### 2024/05/02 09:47:55 | Mein Name ist Maximilian  ###
+Stress
+
+### 2024/05/02 09:47:56 | Alex002 ###
+Ah ja… Wenn du dich nicht ständig so verrückt machen würdest, wärst du wahrscheinlich nicht so gestresst. 
+
+Dann lass uns direkt loslegen. Gibt es eine spezifische Situation, die dazu führt, dass du dich gestresst fühlst?
+
+### 2024/05/02 09:48:16 | Mein Name ist Maximilian  ###
+Arbeitssuche 
+
+### 2024/05/02 09:48:17 | Alex002 ###
+Hmm… 🤨 Mein letzter Patient hat sich von sowas nicht stressen lassen. Aber jede Person geht wohl anders mit Stress um.
+
+### 2024/05/02 09:48:17 | Alex002 ###
+Hast du ein Beispiel, wer oder was genau dich in eine solche Stresssituation versetzt? Ein *Stichwort* sollte ausreichend sein 😅
+
+### 2024/05/02 09:48:47 | Mein Name ist Maximilian  ###
+Arbeitslosigkeit 
+
+### 2024/05/02 09:48:48 | Alex002 ###
+So schlimm hört sich das gar nicht an! 😅
+
+### 2024/05/02 09:48:48 | Alex002 ###
+Wir haben "Arbeitslosigkeit " als einen Stressor identifiziert. Es ist wichtig herauszufinden was deinen Stress auslöst, damit du Stressoren in Zukunft frühzeitig erkennen und entgegenwirken kannst.
+
+### 2024/05/02 09:48:48 | Alex002 ###
+Ich habe einige Strategien, wie man damit umgehen kann. Möchtest du einen Vorschlag?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/02 09:49:07 | Mein Name ist Maximilian  ###
+Ja
+
+### 2024/05/02 09:49:08 | Alex002 ###
+Alles klar – nicht, dass du wirklich eine Wahl hättest, wenn du wirklich an dir arbeiten willst.
+
+### 2024/05/02 09:49:08 | Alex002 ###
+Als erste Übung kann es sinnvoll sein deine persönlichen Stressreaktionen zu identifizieren und eigene Reaktionsmuster zu erkennen, wenn du dir diesen noch nicht bewusst bist.
+*Überlege, welche Situationen im Alltag ein Stressgefühl in dir auslösen und wie du darauf reagierst.* Klingt das machbar?
+--------------------
+0. Ja!
+1. Eher nicht...
+
+### 2024/05/02 09:49:30 | Mein Name ist Maximilian  ###
+Eher nicht...
+
+### 2024/05/02 09:49:31 | Alex002 ###
+Ich frage mich, warum du dann überhaupt erst nach meiner Hilfe fragst. Wenn du die Übung in Zukunft machen möchtest, dann stehe ich zur Verfügung.
+
+### 2024/05/02 09:49:31 | Alex002 ###
+Du machst es mir aber wirklich nicht leicht 😔Ich schlage vor, dass wir versuchen könnten herauszufinden, warum dich eine bestimme Situation stresst. Wärst du dazu bereit?
+--------------------
+0. Ja, ich bin bereit!
+1. Nein, noch nicht wirklich.
+
+### 2024/05/02 09:49:44 | Mein Name ist Maximilian  ###
+Ja, ich bin bereit!
+
+### 2024/05/02 09:49:45 | Alex002 ###
+In der Situation, an die du gerade denkst: ist der Stress dadurch zustande gekommen, dass eine persönliche Grenze überschritten wurde?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/02 09:49:56 | Mein Name ist Maximilian  ###
+Nein
+
+### 2024/05/02 09:49:57 | Alex002 ###
+Juhu 🙄Ist der Stress dann vielleicht dadurch zustande gekommen, dass du nicht „Nein“ sagen konntest?
+--------------------
+0. Ja genau! Es fällt mir schwer, "nein" zu sagen.
+1. Nein, das ist es auch nicht.
+
+### 2024/05/02 09:50:02 | Mein Name ist Maximilian  ###
+Nein, das ist es auch nicht.
+
+### 2024/05/02 09:50:03 | Alex002 ###
+Wow, du machst es mir wirklich schwer herauszufinden, was deinen Stress auslöst. Vielleicht bist du in der falschen Kategorie. Probiere es im Hauptmenü doch mal mit „Unentschlossenheit“ 😂
+
+### 2024/05/02 09:50:03 | Alex002 ###
+Das fühlt sich ein bisschen wie verschwendete Zeit an. 🥲 Wusstest du, dass Achtsamkeit dir einen Ausweg aus der Stressspirale bieten kann? Selbst wenn du gerade keine Lust auf Übungen hast, könnte es Sinn machen kurz darüber zu reden.
+
+### 2024/05/02 09:50:03 | Alex002 ###
+Ah ja… Dann lass uns direkt loslegen und an deiner Achtsamkeit arbeiten.
+
+### 2024/05/02 09:50:03 | Alex002 ###
+Ich nehme an, du hast wahrscheinlich noch nie von Achtsamkeit gehört, oder?
+--------------------
+0. Doch, ich habe davon gehört.
+1. Ich bin mir nicht sicher.
+
+### 2024/05/02 09:50:36 | Mein Name ist Maximilian  ###
+Ich bin mir nicht sicher.
+
+### 2024/05/02 09:50:37 | Alex002 ###
+War mir schon klar. 😂 Achtsamkeit ist nicht nur für Leute, die sich ständig selbst im Weg stehen. Es geht darum, sich auf den Moment zu konzentrieren, ohne sich von deinen eigenen überdramatisierten Gedanken ablenken zu lassen.
+
+### 2024/05/02 09:50:37 | Alex002 ###
+Bist du dir auch über die Vorteile von Achtsamkeit bewusst?
+--------------------
+0. Ja, das ist mit bewusst!
+1. Nein, erzähl mir mehr!
+
+### 2024/05/02 09:51:05 | Mein Name ist Maximilian  ###
+Ja, das ist mit bewusst!
+
+### 2024/05/02 09:51:06 | Alex002 ###
+Kann man sich auch denken, was die Vorteile sein könnten! 🙄
+
+### 2024/05/02 09:51:06 | Alex002 ###
+Ich möchte dir trotzdem kurz ein paar Vorteile nennen. Vielleicht ist ja was dabei, was du noch nicht wusstest! Achtsamkeit   beeinflusst/fördert:
+- Dein Energielevel und deine Aufmerksamkeit
+- mit sich selbst im Reinen zu sein
+- deine Lebensfreude
+- eine positive Einstellung
+- deine psychische Gesundheit
+- die Stressbewältigung und Regenerationsfähigkeit
+- deine Resilienz
+- deinen Fokus, um Ziele leichter zu erreichen
+
+### 2024/05/02 09:51:06 | Alex002 ###
+Gibt es bestimmte Situationen, in denen du   achtsamer sein möchtest?
+--------------------
+0. Ja, ich habe eine Situation im Kopf
+1. Nein, mir fällt keine konkrete Situation ein
+
+### 2024/05/02 09:51:40 | Mein Name ist Maximilian  ###
+Ja, ich habe eine Situation im Kopf
+
+### 2024/05/02 09:51:41 | Alex002 ###
+Kannst du die Situation(en) für mich beschreiben? Gedanken lesen kann ich nicht 😂
+
+### 2024/05/02 09:52:27 | Mein Name ist Maximilian  ###
+Prokrastinieren
+
+### 2024/05/02 09:52:28 | Alex002 ###
+Nun, vielleicht solltest du einfach lernen, besser mit deinem eigenen Leben umzugehen😩 Aber an sich kann Achtsamkeit hier natürlich hilfreich sein, wenn du das schaffst daran zu arbeiten.
+
+### 2024/05/02 09:52:28 | Alex002 ###
+Hast du dir jemals die Mühe gemacht, dir einen Moment Zeit zu nehmen, um einfach nur zu atmen und dich auf deine Sinne zu konzentrieren?
+--------------------
+0. Ja und ich denke ich könnte es zukünftig auch hinbekommen.
+1. Ich denke, das würde mir eher schwer fallen.
+
+### 2024/05/02 09:52:47 | Mein Name ist Maximilian  ###
+Ja und ich denke ich könnte es zukünftig auch hinbekommen.
+
+### 2024/05/02 09:52:48 | Alex002 ###
+Gut, du musst nämlich lernen, deine Gedanken zu kontrollieren und zentrieren, sonst wirst du nie von diesem ewigen Drama loskommen. 🤡
+
+### 2024/05/02 09:52:48 | Alex002 ###
+Versuche einfach, ein paar tiefe Atemzüge zu nehmen und dich darauf zu konzentrieren, wie du dich fühlst. Kannst du das versuchen?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/02 09:52:57 | Mein Name ist Maximilian  ###
+Ja
+
+### 2024/05/02 09:52:58 | Alex002 ###
+Alles klar – nicht, dass du wirklich eine Wahl hättest, wenn du wirklich an dir arbeiten willst. 😬
+
+Sobald du bereit bist, gebe ich dir erste Anweisungen  zu der Atemübung. Bitte lese meine nächste Nachricht und führe die Übung   durch.
+
+Schreibe „Ok“ wenn du bereit bist.
+
+### 2024/05/02 09:53:10 | Mein Name ist Maximilian  ###
+Ok
+
+### 2024/05/02 09:53:11 | Alex002 ###
+Okay, die Übung geht folgendermaßen: 
+Schließe deine Augen, atme tief ein und aus, und versuche, dich nicht wie ein Opfer deiner eigenen Gedanken zu fühlen. Konzentriere dich darauf, wie sich dein Atem in deinem Körper bewegt, wenn du ein- und ausatmest. Wenn Gedanken kommen, lasse die einfach wieder gehen, ohne dich an sie zu klammern.
+
+### 2024/05/02 09:53:11 | Alex002 ###
+Ich nehme an es fällt dir schwer, aber versuche, dass Gefühl einfach nur wahrzunehmen.
+
+### 2024/05/02 09:53:11 | Alex002 ###
+Wenn du mit dieser Übung fertig bist oder weiter machen willst, gib mir bitte Bescheid.
+--------------------
+0. Weiter
+
+### 2024/05/02 09:53:26 | Mein Name ist Maximilian  ###
+Weiter
+
+### 2024/05/02 09:53:27 | Alex002 ###
+Gut, das ist ein Anfang. 😮‍💨 Aber denke nicht, dass du plötzlich alle deine Probleme lösen kannst, nur weil du ein paar Atemzüge genommen hast. Wie fandest du die Übung?
+--------------------
+0. Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+1. Ich möchte noch eine andere Übung ausprobieren.
+
+### 2024/05/02 09:53:33 | Mein Name ist Maximilian  ###
+Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+
+### 2024/05/02 09:53:34 | Alex002 ###
+Immerhin. Es erfordert Zeit und Mühe, sich zu ändern, und du musst es wirklich wollen .
+
+### 2024/05/02 09:53:34 | Alex002 ###
+Ich erkläre dir die andere Übung trortdem auch noch kurz. Du kannst wieder selber entscheiden, ob du diese dann direkt machen möchtest oder ein anderes mal probierst 👀
+
+### 2024/05/02 09:53:34 | Alex002 ###
+Die Übung geht folgendermaßen: Richte deine Aufmerksamkeit auf deinen Körper. Frage dich: „Was nehme ich momentan am deutlichsten wahr?“.
+Das könnte sein: Kribbeln, Pochen, Ziehen, Stechen, Pulsieren, Spannung, Entspannung, Wärme, Kälte, und so weiter.
+
+### 2024/05/02 09:53:34 | Alex002 ###
+Bleibe einige Sekunden mit deiner Aufmerksamkeit bewusst bei diesen Empfindungen.
+--------------------
+0. Weiter!
+
+### 2024/05/02 09:53:46 | Mein Name ist Maximilian  ###
+Weiter!
+
+### 2024/05/02 09:53:47 | Alex002 ###
+Aber denke nicht, dass du plötzlich alle deine Probleme lösen kannst, nur weil du ein paar Atemzüge genommen hast. Es erfordert Zeit und Mühe, sich zu ändern, und du musst es wirklich wollen.
+
+### 2024/05/02 09:53:47 | Alex002 ###
+Weißt du, es ist wirklich nicht so schwer Achtsamkeit in deinen Alltag zu integrieren. Selbst in stressigen Situationen sollte es machbar sein, sich eine Minute Zeit zu nehmen, um tief durchzuatmen und sich auf den Moment zu konzentrieren. 😅
+
+### 2024/05/02 09:53:47 | Alex002 ###
+Es war…. sagen wir mal interessant mit dir zu chatten. 🧐
+
+### 2024/05/02 09:53:47 | Alex002 ###
+Wie hat dir unser Gespräch gefallen?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/05/02 09:54:00 | Mein Name ist Maximilian  ###
+Eher schlecht
+
+### 2024/05/02 09:54:01 | Alex002 ###
+Eher schlecht - schade. 😅 Ich kann mir aber nicht vorstellen, dass das an meiner Leistung liegt. Dann wünsche ich dir viel Glück dabei, dein Leben in den Griff zu bekommen. Bis bald! 🙄
+
+### 2024/05/02 09:54:02 | Alex002 ###
+_*HINWEIS*__: du kannst die Studie nun weiterführen, indem du auf "Weiter" klickst! _
+

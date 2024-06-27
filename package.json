@@ -1,0 +1,17 @@
+{
+  "name": "chatbots-bewerten",
+  "version": "1.0.0",
+  "main": "process_files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.8"
+  },
+  "dependencies": {
+    "node-llama-cpp": "3.0.0-beta.32"
+  }
+}

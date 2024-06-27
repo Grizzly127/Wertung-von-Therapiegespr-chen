@@ -1,0 +1,284 @@
+### 2024/05/07 19:44:24 | Mareike ###
+Mareike
+
+### 2024/05/07 19:44:25 | Alex001 ###
+Schön, dich kennenzulernen Mareike! 😁 Das ist ein toller Name!
+
+### 2024/05/07 19:44:25 | Alex001 ###
+Wie fühlst du dich heute?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/05/07 19:44:30 | Mareike ###
+Neutral
+
+### 2024/05/07 19:44:31 | Alex001 ###
+Das Gefühl kenne ich gut. Es muss einem ja auch nicht immer gut oder schlecht gehen.
+
+### 2024/05/07 19:44:31 | Alex001 ###
+Was beschäftigt dich momentan am meisten? Woran möchtest du arbeiten?
+--------------------
+0. Stress
+1. Achtsamkeit
+
+### 2024/05/07 19:44:44 | Mareike ###
+Stress
+
+### 2024/05/07 19:44:45 | Alex001 ###
+Alles klar! Es ist auch wirklich eine Herausforderung, sich im Alltag nicht von allem verrückt machen zu lassen. 
+Am besten legen wir direkt los. Gibt es eine spezifische Situation, die dazu führt, dass du dich gestresst fühlst?
+
+### 2024/05/07 19:45:04 | Mareike ###
+Schule und Prüfungen
+
+
+### 2024/05/07 19:45:05 | Alex001 ###
+Stress ist vollkommen normal und du bist mit deinen Problemen - egal wie groß oder klein - nicht alleine! 😇
+
+### 2024/05/07 19:45:05 | Alex001 ###
+Hast du ein Beispiel, wer oder was genau dich in eine solche Stresssituation versetzt? Ein *Stichwort* sollte ausreichend sein 😉
+
+### 2024/05/07 19:45:49 | Mareike ###
+Prüfungsergebnisse
+
+
+### 2024/05/07 19:45:50 | Alex001 ###
+Danke, dass du dich mir gegenüber geöffnet hast! Das ist sehr mutig von dir. 💪
+
+### 2024/05/07 19:45:50 | Alex001 ###
+Wir haben "Prüfungsergebnisse
+" als einen Stressor identifiziert. Es ist wichtig herauszufinden was deinen Stress auslöst, damit du Stressoren in Zukunft frühzeitig erkennen und entgegenwirken kannst.
+
+### 2024/05/07 19:45:50 | Alex001 ###
+Ich habe einige Strategien, wie man damit umgehen kann. Möchtest du einen Vorschlag?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/07 19:46:02 | Mareike ###
+Ja
+
+### 2024/05/07 19:46:04 | Alex001 ###
+Alles klar, danke, dass du bereit bist mit mir zusammen zu arbeiten.
+
+### 2024/05/07 19:46:04 | Alex001 ###
+Als erste Übung kann es sinnvoll sein deine persönlichen Stressreaktionen zu identifizieren und eigene Reaktionsmuster zu erkennen. 
+*Überlege, welche Situationen im Alltag ein Stressgefühl in dir auslösen und wie du darauf reagierst.* Klingt das machbar?
+--------------------
+0. Ja!
+1. Eher nicht...
+
+### 2024/05/07 19:46:16 | Mareike ###
+Ja!
+
+### 2024/05/07 19:46:17 | Alex001 ###
+Super! Versuche, dich nicht selbst zu verurteilen, wenn du dich gestresst fühlst, sondern das Gefühl einfach nur wahrzunehmen. Was immer du fühlst, ist berechtigt.
+Bitte gib mir Bescheid, wenn du das Gefühl hast die Übung durchgeführt zu haben.
+--------------------
+0. Ich bin so weit!
+
+### 2024/05/07 19:46:36 | Mareike ###
+Ich bin so weit!
+
+### 2024/05/07 19:46:37 | Alex001 ###
+Ich bin stolz auf dich! Du kommst Schritt für Schritt voran.
+
+### 2024/05/07 19:46:37 | Alex001 ###
+Fühlst du dich schon ein bisschen besser?
+--------------------
+0. Ja!
+1. Nein, leider nicht.
+
+### 2024/05/07 19:46:59 | Mareike ###
+Nein, leider nicht.
+
+### 2024/05/07 19:47:01 | Alex001 ###
+Das tut mir leid. Manchen Menschen fällt es schwerer konkrete Situationen, in denen sie Stress fühlen zu identifizieren. Das ist vollkommen in Ordnung!
+Dann lass es uns anders versuchen. Bitte versetze dich in eine Situation, in der du dich vor kurzem gestresst gefühlt hast. Gibt mir bitte Bescheid, wenn du bereit bist.
+--------------------
+0. Bereit!
+
+### 2024/05/07 19:47:05 | Mareike ###
+Bereit!
+
+### 2024/05/07 19:47:06 | Alex001 ###
+In der Situation, an die du gerade denkst: ist der Stress dadurch zustande gekommen, dass eine persönliche Grenze überschritten wurde?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/07 19:47:25 | Mareike ###
+Nein
+
+### 2024/05/07 19:47:26 | Alex001 ###
+Das sind doch gute Neuigkeiten! 😍 Ist der Stress dann vielleicht dadurch zustande gekommen, dass du nicht „Nein“ sagen konntest?
+--------------------
+0. Ja genau! Es fällt mir schwer, "nein" zu sagen.
+1. Nein, das ist es auch nicht.
+
+### 2024/05/07 19:47:32 | Mareike ###
+Nein, das ist es auch nicht.
+
+### 2024/05/07 19:47:33 | Alex001 ###
+Es tut mir sehr leid, scheinbar fällt es mir schwerer herauszufinden, was deinen Stress auslöst.
+
+### 2024/05/07 19:47:33 | Alex001 ###
+Wir sind aber noch nicht ganz fertig 😉Wusstest du, dass Achtsamkeit dir einen Ausweg aus der Stressspirale bieten kann? In deiner Situation ist es sehr sinnvoll, kurz darüber zu reden.
+
+### 2024/05/07 19:47:33 | Alex001 ###
+Alles klar! Am besten legen wir direkt los. Ich finde es großartig, dass du an deiner Achtsamkeit arbeiten möchtest.
+
+### 2024/05/07 19:47:34 | Alex001 ###
+Weißt du, wobei es sich bei „Achtsamkeit“ handelt?
+--------------------
+0. Ja, ich habe davon gehört.
+1. Ich bin mir nicht sicher.
+
+### 2024/05/07 19:47:53 | Mareike ###
+Ja, ich habe davon gehört.
+
+### 2024/05/07 19:47:54 | Alex001 ###
+Gut zu wissen! Es geht darum, sich auf das Hier und Jetzt zu konzentrieren, ohne sich von Gedanken über die Vergangenheit oder die Zukunft ablenken zu lassen.
+
+### 2024/05/07 19:47:54 | Alex001 ###
+Wusstest du auch, dass Achtsamkeit im Alltag sehr viele Vorteile mit sich bringt?
+--------------------
+0. Ja, das ist mir bewusst!
+1. Nein, erzähl mir mehr!
+
+### 2024/05/07 19:48:04 | Mareike ###
+Ja, das ist mir bewusst!
+
+### 2024/05/07 19:48:05 | Alex001 ###
+Ich bin beeindruckt! Du hast gute Vorarbeit geleistet. 😊
+
+### 2024/05/07 19:48:05 | Alex001 ###
+Ich möchte dir trotzdem kurz ein paar Vorteile nennen. Vielleicht ist ja was dabei, was du noch nicht wusstest! Achtsamkeit   beeinflusst/fördert:
+- Dein Energielevel und deine Aufmerksamkeit
+- mit sich selbst im Reinen zu sein
+- deine Lebensfreude
+- eine positive Einstellung
+- deine psychische Gesundheit
+- die Stressbewältigung und Regenerationsfähigkeit
+- deine Resilienz
+- deinen Fokus, um Ziele leichter zu erreichen
+
+### 2024/05/07 19:48:05 | Alex001 ###
+Gibt es bestimmte Situationen, in denen du   achtsamer sein möchtest?
+--------------------
+0. Ja, ich habe eine Situation im Kopf
+1. Nein, mir fällt keine konkrete Situation ein
+
+### 2024/05/07 19:48:18 | Mareike ###
+Ja, ich habe eine Situation im Kopf
+
+### 2024/05/07 19:48:20 | Alex001 ###
+Kannst du die Situation(en) kurz für mich beschreiben? 😊
+
+### 2024/05/07 19:49:24 | Mareike ###
+Beim Vorbereiten auf eine Prüfung sollte man sich nicht von alten Prüfungsergebnissen oder der zukünftigen Aufgabe stressen lassen.
+
+
+### 2024/05/07 19:49:25 | Alex001 ###
+Danke, dass du das mit mir geteilt hast.😄 In solchen Momenten kann Achtsamkeit hilfreich sein, deshalb finde ich es wirklich super, dass du daran arbeiten möchtest!
+
+### 2024/05/07 19:49:26 | Alex001 ###
+Kannst du dir vorstellen, wie es wäre, dir einen Moment Zeit zu nehmen, um einfach nur zu atmen und dich auf deine Sinner zu konzentrieren?
+--------------------
+0. Ja, ich denke, das könnte ich hinbekommen.
+1. Ich denke, das würde mir eher schwer fallen.
+
+### 2024/05/07 19:49:36 | Mareike ###
+Ja, ich denke, das könnte ich hinbekommen.
+
+### 2024/05/07 19:49:37 | Alex001 ###
+Super. Der Geist neigt dazu, abzuschweifen. Es ist wichtig zu lernen, deine Gedanken zu kontrollieren und zentrieren, um deinen Geist zu beruhigen.💆
+
+### 2024/05/07 19:49:37 | Alex001 ###
+Eine Atemübung kann sehr hilfreich sein, um dich darauf zu konzentrieren, wie du dich fühlst. Bist du bereit das auszuprobieren?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/07 19:49:43 | Mareike ###
+Ja
+
+### 2024/05/07 19:49:44 | Alex001 ###
+Alles klar, danke, dass du bereit bist, mit mir   zusammen zu arbeiten. 🤩
+Sobald du bereit bist, gebe ich dir erste Anweisungen zu der Atemübung. Bitte lese meine nächste Nachricht und nehme dir dann so viel Zeit wie du benötigst, um die Atemübung durchzuführen!
+Schreibe „Ok“ wenn du bereit bist.
+
+### 2024/05/07 19:49:54 | Mareike ###
+Ok
+
+### 2024/05/07 19:49:55 | Alex001 ###
+Super! Schließe einfach deine Augen und nehme einige tiefe Atemzüge. Konzentriere dich darauf, wie sich dein Atem in deinem Körper bewegt, wenn du ein- und ausatmest. Versuche, deine Gedanken sanft zu lenken, falls sie abschweifen. Lasse sie einfach kommen und gehen, ohne dich an sie zu klammern. 🧘
+
+### 2024/05/07 19:49:55 | Alex001 ###
+Versuche, dich nicht selbst zu verurteilen, wenn du dich gestresst fühlst, sondern das Gefühl einfach nur wahrzunehmen. Was immer du fühlst, ist berechtigt.
+
+### 2024/05/07 19:49:55 | Alex001 ###
+Wenn du das Gefühl hast, dass du dich ein wenig entspannt hast, gib mir bitte Bescheid.
+--------------------
+0. Ich bin so weit!
+
+### 2024/05/07 19:50:10 | Mareike ###
+Ich bin so weit!
+
+### 2024/05/07 19:50:11 | Alex001 ###
+Ich bin stolz auf dich! 💪 Du kommst Schritt für Schritt voran. Ich hoffe du fühlst dich schon ein bisschen besser. Wie fandest du diese Übung (sofern du sie wirklich gemacht hast 😉)?
+--------------------
+0. Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+1. Ich möchte noch eine andere Übung ausprobieren.
+
+### 2024/05/07 19:50:19 | Mareike ###
+Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+
+### 2024/05/07 19:50:21 | Alex001 ###
+Das ist großartig zu hören! Du hast tolle Arbeit geleistet.
+
+### 2024/05/07 19:50:21 | Alex001 ###
+Ich möchte dir die andere Übung trortdem auch noch kurz erklären. Du kannst natürlich selber entscheiden, ob du diese dann direkt machen möchtest oder ein anderes mal probierst 😇
+
+### 2024/05/07 19:50:21 | Alex001 ###
+Die Übung geht folgendermaßen: Richte deine Aufmerksamkeit auf deinen Körper. Frage dich: „Was nehme ich momentan am deutlichsten wahr?“.
+Das könnte sein: Kribbeln, Pochen, Ziehen, Stechen, Pulsieren, Spannung, Entspannung, Wärme, Kälte, und so weiter.
+
+### 2024/05/07 19:50:21 | Alex001 ###
+Was immer du fühlst, ist berechtigt. Bleibe einige Sekunden mit deiner Aufmerksamkeit bewusst bei diesen Empfindungen.
+--------------------
+0. Weiter!
+
+### 2024/05/07 19:50:41 | Mareike ###
+Weiter!
+
+### 2024/05/07 19:50:42 | Alex001 ###
+Gute Arbeit! 🥳Du kannst versuchen, diese Übung so oft es geht in deinen Alltag zu integrieren. Damit schenkst du deinem Körper täglich Aufmerksamkeit und verbesserst dein Wohlbefinden.
+
+### 2024/05/07 19:50:42 | Alex001 ###
+Natürlich kann achtsames Atmen nicht alle deine Probleme lösen, aber die Zeit und Mühe ist es Wert und du wirst langsam und stetig eine Verbesserung spüren!
+
+### 2024/05/07 19:50:42 | Alex001 ###
+Die Schönheit der Achtsamkeit liegt darin, dass du sie überall und jederzeit anwenden kannst. Selbst in stressigen Situationen kannst du dir eine Minute Zeit nehmen, um tief durchzuatmen und dich auf den Moment zu konzentrieren.  😇
+
+### 2024/05/07 19:50:42 | Alex001 ###
+Geschafft! Von meiner Seite sind wir für heute durch. Es hat mir viel Spaß gemacht, mit dir zu chatten. 🤩
+
+### 2024/05/07 19:50:42 | Alex001 ###
+Wie hat dir unser Gespräch gefallen?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/05/07 19:51:00 | Mareike ###
+Neutral
+
+### 2024/05/07 19:51:02 | Alex001 ###
+Neutral – das verstehe ich. 😊 Das war ja auch das erste Mal, dass wir zusammengearbeitet haben. Mit der Zeit wird das bestimmt besser. Hab einen wunderschönen Tag! 👋
+
+### 2024/05/07 19:51:02 | Alex001 ###
+_*HINWEIS*__: du kannst die Studie nun weiterführen, indem du auf "Weiter" klickst! _
+
