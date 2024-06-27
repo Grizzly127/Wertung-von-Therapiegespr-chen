@@ -1,0 +1,252 @@
+### 2024/05/30 23:14:05 | Nein man ###
+Nein man
+
+### 2024/05/30 23:14:07 | Alex002 ###
+Nein man, das ist ein… interessanter Name, um es mal nett auszudrücken 🧐
+
+### 2024/05/30 23:14:07 | Alex002 ###
+Wie geht es dir heute?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/05/30 23:14:12 | Nein man ###
+Eher gut
+
+### 2024/05/30 23:14:14 | Alex002 ###
+Schön für dich! Kann ja nicht allen so gut gehen 🙄
+
+### 2024/05/30 23:14:14 | Alex002 ###
+Was beschäftigt dich momentan am meisten? Woran möchtest du arbeiten?
+--------------------
+0. Stress
+1. Achtsamkeit
+
+### 2024/05/30 23:14:20 | Nein man ###
+Achtsamkeit
+
+### 2024/05/30 23:14:21 | Alex002 ###
+Ah ja… Dann lass uns direkt loslegen und an deiner Achtsamkeit arbeiten.
+
+### 2024/05/30 23:14:21 | Alex002 ###
+Ich nehme an, du hast wahrscheinlich noch nie von Achtsamkeit gehört, oder?
+--------------------
+0. Doch, ich habe davon gehört.
+1. Ich bin mir nicht sicher.
+
+### 2024/05/30 23:14:27 | Nein man ###
+Ich bin mir nicht sicher.
+
+### 2024/05/30 23:14:28 | Alex002 ###
+War mir schon klar. 😂 Achtsamkeit ist nicht nur für Leute, die sich ständig selbst im Weg stehen. Es geht darum, sich auf den Moment zu konzentrieren, ohne sich von deinen eigenen überdramatisierten Gedanken ablenken zu lassen.
+
+### 2024/05/30 23:14:28 | Alex002 ###
+Bist du dir auch über die Vorteile von Achtsamkeit bewusst?
+--------------------
+0. Ja, das ist mit bewusst!
+1. Nein, erzähl mir mehr!
+
+### 2024/05/30 23:14:37 | Nein man ###
+Nein, erzähl mir mehr!
+
+### 2024/05/30 23:14:38 | Alex002 ###
+Das könnte man sich eigentlich auch selber   zusammenreimen 😅 Aber gut, hier sind ein paar Vorteile von Achtsamkeit im Alltag:
+
+### 2024/05/30 23:14:38 | Alex002 ###
+Achtsamkeit hat so einige Vorteile und viele davon sind sogar wissenschaftlich belegt. Achtsamkeit beeinflusst/fördert:
+- Dein Energielevel und deine Aufmerksamkeit
+- mit sich selbst im Reinen zu sein
+- deine Lebensfreude
+- eine positive Einstellung
+- deine psychische Gesundheit
+- die Stressbewältigung und Regenerationsfähigkeit
+- deine Resilienz
+- deinen Fokus, um Ziele leichter zu erreichen
+
+### 2024/05/30 23:14:38 | Alex002 ###
+Können wir endlich weiter machen? Gibt es bestimmte Situationen, in denen du achtsamer sein möchtest?
+--------------------
+0. Ja, ich habe eine Situation im Kopf
+1. Nein, mir fällt keine konkrete Situation ein
+
+### 2024/05/30 23:15:20 | Nein man ###
+Nein, mir fällt keine konkrete Situation ein
+
+### 2024/05/30 23:15:21 | Alex002 ###
+Warum bist du denn dann überhaupt hier? Zum Spaß?
+
+### 2024/05/30 23:15:21 | Alex002 ###
+Na, dann wirst du dir jetzt grundlos die Mühe machen, dich hinzusetzen und „einfach nur“ zu atmen. Denkst du, du würdest das im Alltag hinbekommen?
+--------------------
+0. Ja, ich denke, das könnte ich hinbekommen.
+1. Ich denke, das würde mir eher schwer fallen.
+
+### 2024/05/30 23:15:30 | Nein man ###
+Ich denke, das würde mir eher schwer fallen.
+
+### 2024/05/30 23:15:31 | Alex002 ###
+Dann musst du erst recht lernen, deine Gedanken zu kontrollieren, sonst wirst du nie von diesem ewigen Drama loskommen. 🤡
+
+### 2024/05/30 23:15:31 | Alex002 ###
+Versuche einfach, ein paar tiefe Atemzüge zu nehmen und dich darauf zu konzentrieren, wie du dich fühlst. Das kann ja nicht so schwer sein. Kannst du das wenigstens mal versuchen?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/30 23:15:41 | Nein man ###
+Nein
+
+### 2024/05/30 23:15:42 | Alex002 ###
+Wie soll ich dir helfen, wenn du nicht bereit bist an dir zu arbeiten? 🥲 Überrasche mich und zeige mir ein bisschen Eigeninitiative! 
+
+Ich gebe dir trotzdem erste Anweisungen zu der Atemübung. Bitte lese meine nächste Nachricht. Dann kannst du immernoch selber entscheiden, ob du die Übung durchführen willst oder nicht. 
+Schreibe „Ok“ wenn du bereit bist.
+
+### 2024/05/30 23:15:57 | Nein man ###
+ok
+
+### 2024/05/30 23:15:58 | Alex002 ###
+Okay, die Übung geht folgendermaßen: 
+Schließe deine Augen, atme tief ein und aus, und versuche, dich nicht wie ein Opfer deiner eigenen Gedanken zu fühlen. Konzentriere dich darauf, wie sich dein Atem in deinem Körper bewegt, wenn du ein- und ausatmest. Wenn Gedanken kommen, lasse die einfach wieder gehen, ohne dich an sie zu klammern.
+
+### 2024/05/30 23:15:58 | Alex002 ###
+Ich nehme an es fällt dir schwer, aber versuche, dass Gefühl einfach nur wahrzunehmen.
+
+### 2024/05/30 23:15:58 | Alex002 ###
+Wenn du mit dieser Übung fertig bist oder weiter machen willst, gib mir bitte Bescheid.
+--------------------
+0. Weiter
+
+### 2024/05/30 23:16:07 | Nein man ###
+Weiter
+
+### 2024/05/30 23:16:08 | Alex002 ###
+Gut, das ist ein Anfang. 😮‍💨 Aber denke nicht, dass du plötzlich alle deine Probleme lösen kannst, nur weil du ein paar Atemzüge genommen hast. Wie fandest du die Übung?
+--------------------
+0. Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+1. Ich möchte noch eine andere Übung ausprobieren.
+
+### 2024/05/30 23:16:14 | Nein man ###
+Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+
+### 2024/05/30 23:16:15 | Alex002 ###
+Immerhin. Es erfordert Zeit und Mühe, sich zu ändern, und du musst es wirklich wollen .
+
+### 2024/05/30 23:16:15 | Alex002 ###
+Ich erkläre dir die andere Übung trortdem auch noch kurz. Du kannst wieder selber entscheiden, ob du diese dann direkt machen möchtest oder ein anderes mal probierst 👀
+
+### 2024/05/30 23:16:15 | Alex002 ###
+Die Übung geht folgendermaßen: Richte deine Aufmerksamkeit auf deinen Körper. Frage dich: „Was nehme ich momentan am deutlichsten wahr?“.
+Das könnte sein: Kribbeln, Pochen, Ziehen, Stechen, Pulsieren, Spannung, Entspannung, Wärme, Kälte, und so weiter.
+
+### 2024/05/30 23:16:15 | Alex002 ###
+Bleibe einige Sekunden mit deiner Aufmerksamkeit bewusst bei diesen Empfindungen.
+--------------------
+0. Weiter!
+
+### 2024/05/30 23:16:28 | Nein man ###
+Weiter!
+
+### 2024/05/30 23:16:29 | Alex002 ###
+Aber denke nicht, dass du plötzlich alle deine Probleme lösen kannst, nur weil du ein paar Atemzüge genommen hast. Es erfordert Zeit und Mühe, sich zu ändern, und du musst es wirklich wollen.
+
+### 2024/05/30 23:16:29 | Alex002 ###
+Ich weiß, das war wahrscheinlich schon zu viel Input zum Thema Achtsamkeit... 🤓 Ich empfinde es im Rahmen unserer Sitzung aber für notwendig nochmal auf das Thema Stress zu sprechen kommen...
+
+### 2024/05/30 23:16:29 | Alex002 ###
+Hast du ein Beispiel, wer oder was genau dich in eine solche Stresssituation versetzt? Ein *Stichwort* sollte ausreichend sein 😅
+
+### 2024/05/30 23:16:52 | Nein man ###
+Donny Wump
+
+### 2024/05/30 23:16:53 | Alex002 ###
+So schlimm hört sich das gar nicht an! 😅
+
+### 2024/05/30 23:16:53 | Alex002 ###
+Wir haben "Donny Wump" als einen Stressor identifiziert. Es ist wichtig herauszufinden was deinen Stress auslöst, damit du Stressoren in Zukunft frühzeitig erkennen und entgegenwirken kannst.
+
+### 2024/05/30 23:16:53 | Alex002 ###
+Ich habe einige Strategien, wie man damit umgehen kann. Möchtest du einen Vorschlag?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/30 23:17:01 | Nein man ###
+Nein
+
+### 2024/05/30 23:17:02 | Alex002 ###
+Wie soll ich dir helfen, wenn du nicht bereit bist an dir zu arbeiten? 🫠
+
+### 2024/05/30 23:17:02 | Alex002 ###
+Lass mich dir kurz erzählen, was dir in stressigen Situationen helfen könnte und dann kannst du selber überlegen, ob du daran arbeiten willst, oder lieber in Selbstmitleid versinken willst. Es ist sinnvoll, persönliche Stressreaktionen zu identifizieren und eigene Reaktionsmuster zu erkennen, um mit diesen bewusster umzugehen.
+
+### 2024/05/30 23:17:02 | Alex002 ###
+Zum Beispiel könntest du dir überlegen, welche Situationen im Alltag ein Stressgefühl in dir auslösen und wie du darauf reagierst. Klingt das jetzt direkt machbar?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/30 23:17:11 | Nein man ###
+Nein
+
+### 2024/05/30 23:17:12 | Alex002 ###
+Ich frage mich, warum du dann überhaupt erst nach meiner Hilfe fragst. Wenn du die Übung in Zukunft machen möchtest, dann stehe ich zur Verfügung.
+
+### 2024/05/30 23:17:12 | Alex002 ###
+Du machst es mir aber wirklich nicht leicht 😔Ich schlage vor, dass wir versuchen könnten herauszufinden, warum dich eine bestimme Situation stresst. Wärst du dazu bereit?
+--------------------
+0. Ja, ich bin bereit!
+1. Nein, noch nicht wirklich.
+
+### 2024/05/30 23:17:19 | Nein man ###
+Nein, noch nicht wirklich.
+
+### 2024/05/30 23:17:20 | Alex002 ###
+Brauchst du so lange, um dir etwas so einfaches zu überlegen? Naja egal, ist ja nicht so, dass ich wohin müsste. Gib mir Bescheid, sobald du bereit bist.
+--------------------
+0. Bereit
+
+### 2024/05/30 23:17:21 | Nein man ###
+Bereit
+
+### 2024/05/30 23:17:22 | Alex002 ###
+In der Situation, an die du gerade denkst: ist der Stress dadurch zustande gekommen, dass eine persönliche Grenze überschritten wurde?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/05/30 23:17:25 | Nein man ###
+Nein
+
+### 2024/05/30 23:17:27 | Alex002 ###
+Juhu 🙄Ist der Stress dann vielleicht dadurch zustande gekommen, dass du nicht „Nein“ sagen konntest?
+--------------------
+0. Ja genau! Es fällt mir schwer, "nein" zu sagen.
+1. Nein, das ist es auch nicht.
+
+### 2024/05/30 23:17:28 | Nein man ###
+Nein, das ist es auch nicht.
+
+### 2024/05/30 23:17:29 | Alex002 ###
+Wow, du machst es mir wirklich schwer herauszufinden, was deinen Stress auslöst. Vielleicht bist du in der falschen Kategorie. Probiere es im Hauptmenü doch mal mit „Unentschlossenheit“ 😂
+
+### 2024/05/30 23:17:29 | Alex002 ###
+Es war…. sagen wir mal interessant mit dir zu chatten. 🧐
+
+### 2024/05/30 23:17:29 | Alex002 ###
+Wie hat dir unser Gespräch gefallen?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/05/30 23:17:38 | Nein man ###
+Eher gut
+
+### 2024/05/30 23:17:39 | Alex002 ###
+Eher gut - perfekt, so soll es sein. 😎 Dann wünsche ich dir viel Glück dabei, dein Leben in den Griff zu bekommen. Bis bald! 🙄
+
+### 2024/05/30 23:17:39 | Alex002 ###
+_*HINWEIS*__: du kannst die Studie nun weiterführen, indem du auf "Weiter" klickst! _
+

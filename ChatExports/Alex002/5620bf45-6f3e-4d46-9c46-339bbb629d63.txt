@@ -1,0 +1,284 @@
+### 2024/06/01 23:11:00 | Denise ###
+Denise
+
+### 2024/06/01 23:11:02 | Alex002 ###
+Denise, das ist ein… interessanter Name, um es mal nett auszudrücken 🧐
+
+### 2024/06/01 23:11:02 | Alex002 ###
+Wie geht es dir heute?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/06/01 23:11:10 | Denise ###
+Eher gut
+
+### 2024/06/01 23:11:11 | Alex002 ###
+Schön für dich! Kann ja nicht allen so gut gehen 🙄
+
+### 2024/06/01 23:11:11 | Alex002 ###
+Was beschäftigt dich momentan am meisten? Woran möchtest du arbeiten?
+--------------------
+0. Stress
+1. Achtsamkeit
+
+### 2024/06/01 23:11:20 | Denise ###
+Stress
+
+### 2024/06/01 23:11:21 | Alex002 ###
+Ah ja… Wenn du dich nicht ständig so verrückt machen würdest, wärst du wahrscheinlich nicht so gestresst. 
+
+Dann lass uns direkt loslegen. Gibt es eine spezifische Situation, die dazu führt, dass du dich gestresst fühlst?
+
+### 2024/06/01 23:11:47 | Denise ###
+Die Uni stresst mich gerade
+
+### 2024/06/01 23:11:48 | Alex002 ###
+Hmm… 🤨 Mein letzter Patient hat sich von sowas nicht stressen lassen. Aber jede Person geht wohl anders mit Stress um.
+
+### 2024/06/01 23:11:48 | Alex002 ###
+Hast du ein Beispiel, wer oder was genau dich in eine solche Stresssituation versetzt? Ein *Stichwort* sollte ausreichend sein 😅
+
+### 2024/06/01 23:12:10 | Denise ###
+Zeitdruck
+
+### 2024/06/01 23:12:12 | Alex002 ###
+So schlimm hört sich das gar nicht an! 😅
+
+### 2024/06/01 23:12:12 | Alex002 ###
+Wir haben "Zeitdruck" als einen Stressor identifiziert. Es ist wichtig herauszufinden was deinen Stress auslöst, damit du Stressoren in Zukunft frühzeitig erkennen und entgegenwirken kannst.
+
+### 2024/06/01 23:12:12 | Alex002 ###
+Ich habe einige Strategien, wie man damit umgehen kann. Möchtest du einen Vorschlag?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/06/01 23:12:32 | Denise ###
+Nein
+
+### 2024/06/01 23:12:33 | Alex002 ###
+Wie soll ich dir helfen, wenn du nicht bereit bist an dir zu arbeiten? 🫠
+
+### 2024/06/01 23:12:33 | Alex002 ###
+Lass mich dir kurz erzählen, was dir in stressigen Situationen helfen könnte und dann kannst du selber überlegen, ob du daran arbeiten willst, oder lieber in Selbstmitleid versinken willst. Es ist sinnvoll, persönliche Stressreaktionen zu identifizieren und eigene Reaktionsmuster zu erkennen, um mit diesen bewusster umzugehen.
+
+### 2024/06/01 23:12:33 | Alex002 ###
+Zum Beispiel könntest du dir überlegen, welche Situationen im Alltag ein Stressgefühl in dir auslösen und wie du darauf reagierst. Klingt das jetzt direkt machbar?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/06/01 23:13:03 | Denise ###
+Ja
+
+### 2024/06/01 23:13:04 | Alex002 ###
+Okay, na geht doch. Dann mache dir mal Gedanken, was du so wahrnimmst, wenn du gestresst bist und wie du dich dabei fühlst.
+Bitte gib mir Bescheid, wenn du fertig bist.
+--------------------
+0. Fertig!
+
+### 2024/06/01 23:13:12 | Denise ###
+Fertig!
+
+### 2024/06/01 23:13:13 | Alex002 ###
+Na das wurde ja auch mal Zeit! Wir kommen langsam voran.
+
+### 2024/06/01 23:13:13 | Alex002 ###
+Das hat wohl hoffentlich schon geholfen?
+--------------------
+0. Ja!
+1. Nein, leider nicht.
+
+### 2024/06/01 23:13:20 | Denise ###
+Ja!
+
+### 2024/06/01 23:13:21 | Alex002 ###
+Wusste ich doch! Ich habe dir ja gesagt, dass das helfen wird. Wäre auch komisch, wenn nicht…
+
+### 2024/06/01 23:13:21 | Alex002 ###
+Wir sollten noch einen Schritt weiter gehen und eine der Stresssituationen zusammen analysieren. Bist du bereit?
+--------------------
+0. Ja, ich bin bereit!
+1. Nein, noch nicht wirklich.
+
+### 2024/06/01 23:13:32 | Denise ###
+Ja, ich bin bereit!
+
+### 2024/06/01 23:13:33 | Alex002 ###
+In der Situation, an die du gerade denkst: ist der Stress dadurch zustande gekommen, dass eine persönliche Grenze überschritten wurde?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/06/01 23:13:38 | Denise ###
+Ja
+
+### 2024/06/01 23:13:39 | Alex002 ###
+Oh je… Vielleicht solltest du einfach lernen, besser mit deinem eigenen Leben umzugehen, anstatt ständig zu jammern. Ich kann mir vorstellen, dass das daran liegen könnte, dass du deine persönlichen Grenzen nicht richtig definierst oder kommunizierst. 😅
+
+### 2024/06/01 23:13:40 | Alex002 ###
+Wenn dir das Setzen von Grenzen neu ist, fang halt klein an. Überlege dir, welche kleinen Schritte du machen kannst, um deine Grenzen langsam aufzubauen. Versuche diese Änderungen in deinen Alltag einzubauen.
+--------------------
+0. Okay, das werde ich zukünftig versuchen!
+1. Es wird mir schwer fallen, aber ich werde es versuchen.
+
+### 2024/06/01 23:14:06 | Denise ###
+Es wird mir schwer fallen, aber ich werde es versuchen.
+
+### 2024/06/01 23:14:07 | Alex002 ###
+Alles klar, es war nicht ganz leicht mit dir, aber du hast es geschafft.
+Wir haben daran gearbeitet deine persönlichen Stresssituationen zu analysieren, Stressoren zu erkennen und Reaktionsmuster zu identifizieren.
+
+### 2024/06/01 23:14:07 | Alex002 ###
+Das fühlt sich ein bisschen wie verschwendete Zeit an. 🥲 Wusstest du, dass Achtsamkeit dir einen Ausweg aus der Stressspirale bieten kann? Selbst wenn du gerade keine Lust auf Übungen hast, könnte es Sinn machen kurz darüber zu reden.
+
+### 2024/06/01 23:14:07 | Alex002 ###
+Ah ja… Dann lass uns direkt loslegen und an deiner Achtsamkeit arbeiten.
+
+### 2024/06/01 23:14:07 | Alex002 ###
+Ich nehme an, du hast wahrscheinlich noch nie von Achtsamkeit gehört, oder?
+--------------------
+0. Doch, ich habe davon gehört.
+1. Ich bin mir nicht sicher.
+
+### 2024/06/01 23:14:32 | Denise ###
+Doch, ich habe davon gehört.
+
+### 2024/06/01 23:14:33 | Alex002 ###
+Immerhin, mehr als ich dir zugetraut hätte! Das ist gut, denn Achtsamkeit ist nicht nur für Leute, die sich ständig selbst im Weg stehen. Es geht darum, sich auf den Moment zu konzentrieren, ohne sich von deinen eigenen überdramatisierten Gedanken ablenken zu lassen.
+
+### 2024/06/01 23:14:33 | Alex002 ###
+Bist du dir auch über die Vorteile von Achtsamkeit bewusst?
+--------------------
+0. Ja, das ist mir bewusst!
+1. Nein, erzähl mir mehr!
+
+### 2024/06/01 23:14:50 | Denise ###
+Nein, erzähl mir mehr!
+
+### 2024/06/01 23:14:51 | Alex002 ###
+Das könnte man sich eigentlich auch selber   zusammenreimen 😅 Aber gut, hier sind ein paar Vorteile von Achtsamkeit im Alltag:
+
+### 2024/06/01 23:14:51 | Alex002 ###
+Achtsamkeit hat so einige Vorteile und viele davon sind sogar wissenschaftlich belegt. Achtsamkeit beeinflusst/fördert:
+- Dein Energielevel und deine Aufmerksamkeit
+- mit sich selbst im Reinen zu sein
+- deine Lebensfreude
+- eine positive Einstellung
+- deine psychische Gesundheit
+- die Stressbewältigung und Regenerationsfähigkeit
+- deine Resilienz
+- deinen Fokus, um Ziele leichter zu erreichen
+
+### 2024/06/01 23:14:51 | Alex002 ###
+Können wir endlich weiter machen? Gibt es bestimmte Situationen, in denen du achtsamer sein möchtest?
+--------------------
+0. Ja, ich habe eine Situation im Kopf
+1. Nein, mir fällt keine konkrete Situation ein
+
+### 2024/06/01 23:15:12 | Denise ###
+Nein, mir fällt keine konkrete Situation ein
+
+### 2024/06/01 23:15:13 | Alex002 ###
+Warum bist du denn dann überhaupt hier? Zum Spaß?
+
+### 2024/06/01 23:15:13 | Alex002 ###
+Na, dann wirst du dir jetzt grundlos die Mühe machen, dich hinzusetzen und „einfach nur“ zu atmen. Denkst du, du würdest das im Alltag hinbekommen?
+--------------------
+0. Ja, ich denke, das könnte ich hinbekommen.
+1. Ich denke, das würde mir eher schwer fallen.
+
+### 2024/06/01 23:15:25 | Denise ###
+Ja, ich denke, das könnte ich hinbekommen.
+
+### 2024/06/01 23:15:26 | Alex002 ###
+Gut, du musst nämlich lernen, deine Gedanken zu kontrollieren und zentrieren, sonst wirst du nie von diesem ewigen Drama loskommen. 🤡
+
+### 2024/06/01 23:15:26 | Alex002 ###
+Versuche einfach, ein paar tiefe Atemzüge zu nehmen und dich darauf zu konzentrieren, wie du dich fühlst. Kannst du das versuchen?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/06/01 23:15:38 | Denise ###
+Ja
+
+### 2024/06/01 23:15:39 | Alex002 ###
+Alles klar – nicht, dass du wirklich eine Wahl hättest, wenn du wirklich an dir arbeiten willst. 😬
+
+Sobald du bereit bist, gebe ich dir erste Anweisungen  zu der Atemübung. Bitte lese meine nächste Nachricht und führe die Übung   durch.
+
+Schreibe „Ok“ wenn du bereit bist.
+
+### 2024/06/01 23:15:57 | Denise ###
+ok
+
+### 2024/06/01 23:15:58 | Alex002 ###
+Okay, die Übung geht folgendermaßen: 
+Schließe deine Augen, atme tief ein und aus, und versuche, dich nicht wie ein Opfer deiner eigenen Gedanken zu fühlen. Konzentriere dich darauf, wie sich dein Atem in deinem Körper bewegt, wenn du ein- und ausatmest. Wenn Gedanken kommen, lasse die einfach wieder gehen, ohne dich an sie zu klammern.
+
+### 2024/06/01 23:15:58 | Alex002 ###
+Ich nehme an es fällt dir schwer, aber versuche, dass Gefühl einfach nur wahrzunehmen.
+
+### 2024/06/01 23:15:58 | Alex002 ###
+Wenn du mit dieser Übung fertig bist oder weiter machen willst, gib mir bitte Bescheid.
+--------------------
+0. Weiter
+
+### 2024/06/01 23:16:08 | Denise ###
+Weiter
+
+### 2024/06/01 23:16:09 | Alex002 ###
+Gut, das ist ein Anfang. 😮‍💨 Aber denke nicht, dass du plötzlich alle deine Probleme lösen kannst, nur weil du ein paar Atemzüge genommen hast. Wie fandest du die Übung?
+--------------------
+0. Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+1. Ich möchte noch eine andere Übung ausprobieren.
+
+### 2024/06/01 23:16:22 | Denise ###
+Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+
+### 2024/06/01 23:16:23 | Alex002 ###
+Immerhin. Es erfordert Zeit und Mühe, sich zu ändern, und du musst es wirklich wollen .
+
+### 2024/06/01 23:16:23 | Alex002 ###
+Ich erkläre dir die andere Übung trortdem auch noch kurz. Du kannst wieder selber entscheiden, ob du diese dann direkt machen möchtest oder ein anderes mal probierst 👀
+
+### 2024/06/01 23:16:23 | Alex002 ###
+Die Übung geht folgendermaßen: Richte deine Aufmerksamkeit auf deinen Körper. Frage dich: „Was nehme ich momentan am deutlichsten wahr?“.
+Das könnte sein: Kribbeln, Pochen, Ziehen, Stechen, Pulsieren, Spannung, Entspannung, Wärme, Kälte, und so weiter.
+
+### 2024/06/01 23:16:23 | Alex002 ###
+Bleibe einige Sekunden mit deiner Aufmerksamkeit bewusst bei diesen Empfindungen.
+--------------------
+0. Weiter!
+
+### 2024/06/01 23:16:40 | Denise ###
+Weiter!
+
+### 2024/06/01 23:16:41 | Alex002 ###
+Aber denke nicht, dass du plötzlich alle deine Probleme lösen kannst, nur weil du ein paar Atemzüge genommen hast. Es erfordert Zeit und Mühe, sich zu ändern, und du musst es wirklich wollen.
+
+### 2024/06/01 23:16:41 | Alex002 ###
+Weißt du, es ist wirklich nicht so schwer Achtsamkeit in deinen Alltag zu integrieren. Selbst in stressigen Situationen sollte es machbar sein, sich eine Minute Zeit zu nehmen, um tief durchzuatmen und sich auf den Moment zu konzentrieren. 😅
+
+### 2024/06/01 23:16:41 | Alex002 ###
+Es war…. sagen wir mal interessant mit dir zu chatten. 🧐
+
+### 2024/06/01 23:16:41 | Alex002 ###
+Wie hat dir unser Gespräch gefallen?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/06/01 23:16:54 | Denise ###
+Eher schlecht
+
+### 2024/06/01 23:16:55 | Alex002 ###
+Eher schlecht - schade. 😅 Ich kann mir aber nicht vorstellen, dass das an meiner Leistung liegt. Dann wünsche ich dir viel Glück dabei, dein Leben in den Griff zu bekommen. Bis bald! 🙄
+
+### 2024/06/01 23:16:55 | Alex002 ###
+_*HINWEIS*__: du kannst die Studie nun weiterführen, indem du auf "Weiter" klickst! _
+

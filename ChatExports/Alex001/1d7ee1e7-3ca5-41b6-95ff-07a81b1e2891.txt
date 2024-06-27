@@ -1,0 +1,299 @@
+### 2024/04/18 10:06:44 | Maja ###
+Maja
+
+### 2024/04/18 10:06:46 | Alex001 ###
+Schön, dich kennenzulernen Maja! 😁 Das ist ein toller Name!
+
+### 2024/04/18 10:06:46 | Alex001 ###
+Wie fühlst du dich heute?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/04/18 10:06:50 | Maja ###
+Eher gut
+
+### 2024/04/18 10:06:51 | Alex001 ###
+Ich bin so froh zu hören, dass es dir heute eher gut geht! 👍
+
+### 2024/04/18 10:06:51 | Alex001 ###
+Was beschäftigt dich momentan am meisten? Woran möchtest du arbeiten?
+--------------------
+0. Stress
+1. Achtsamkeit
+
+### 2024/04/18 10:06:56 | Maja ###
+Stress
+
+### 2024/04/18 10:06:57 | Alex001 ###
+Alles klar! Es ist auch wirklich eine Herausforderung, sich im Alltag nicht von allem verrückt machen zu lassen. 
+Am besten legen wir direkt los. Gibt es eine spezifische Situation, die dazu führt, dass du dich gestresst fühlst?
+
+### 2024/04/18 10:07:06 | Maja ###
+Familie
+
+### 2024/04/18 10:07:07 | Alex001 ###
+Stress ist vollkommen normal und du bist mit deinen Problemen - egal wie groß oder klein - nicht alleine! 😇
+
+### 2024/04/18 10:07:07 | Alex001 ###
+Hast du ein Beispiel, wer oder was genau dich in eine solche Stresssituation versetzt? Ein *Stichwort* sollte ausreichend sein 😉
+
+### 2024/04/18 10:07:19 | Maja ###
+Familie
+
+### 2024/04/18 10:07:21 | Alex001 ###
+Danke, dass du dich mir gegenüber geöffnet hast! Das ist sehr mutig von dir. 💪
+
+### 2024/04/18 10:07:21 | Alex001 ###
+Wir haben "Familie" als einen Stressor identifiziert. Es ist wichtig herauszufinden was deinen Stress auslöst, damit du Stressoren in Zukunft frühzeitig erkennen und entgegenwirken kannst.
+
+### 2024/04/18 10:07:21 | Alex001 ###
+Ich habe einige Strategien, wie man damit umgehen kann. Möchtest du einen Vorschlag?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/04/18 10:07:28 | Maja ###
+Nein
+
+### 2024/04/18 10:07:29 | Alex001 ###
+Ich verstehe, dass es schwierig sein kann an sich zu arbeiten, aber es lohnt sich! Du schaffst das! 😉
+
+### 2024/04/18 10:07:29 | Alex001 ###
+Ich würde dir trotzdem gerne kurz erklären, was dir in stressigen Situationen theoretisch helfen könnte. Ob du es dann anwendest ist vollkommen dir überlassen! Es ist sinnvoll, persönliche Stressreaktionen zu identifizieren und eigene Reaktionsmuster zu erkennen, um mit diesen bewusster umzugehen.
+
+### 2024/04/18 10:07:29 | Alex001 ###
+Zum Beispiel könntest du dir überlegen, welche Situationen im Alltag ein Stressgefühl in dir auslösen und wie du darauf reagierst. Wärst du dazu jetzt bereit?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/04/18 10:07:49 | Maja ###
+Ja
+
+### 2024/04/18 10:07:50 | Alex001 ###
+Super! Versuche, dich nicht selbst zu verurteilen, wenn du dich gestresst fühlst, sondern das Gefühl einfach nur wahrzunehmen. Was immer du fühlst, ist berechtigt.
+Bitte schreibe "bereit" in den Chat, wenn du das Gefühl hast die Übung durchgeführt zu haben.
+
+### 2024/04/18 10:08:25 | Maja ###
+bereit
+
+### 2024/04/18 10:08:27 | Alex001 ###
+Ich bin stolz auf dich! Du kommst Schritt für Schritt voran.
+
+### 2024/04/18 10:08:27 | Alex001 ###
+Fühlst du dich schon ein bisschen besser?
+--------------------
+0. Ja!
+1. Nein, leider nicht.
+
+### 2024/04/18 10:08:31 | Maja ###
+Ja!
+
+### 2024/04/18 10:08:32 | Alex001 ###
+Super! Ich freue mich, dass ich behilflich sein konnte. Du weißt nun, wie du Stressauslöser erkennen kannst. Gute Arbeit!
+
+### 2024/04/18 10:08:32 | Alex001 ###
+Wir sollten noch einen Schritt weiter gehen und eine der Stresssituationen zusammen analysieren. Bist du bereit?
+--------------------
+0. Ja, ich bin bereit!
+1. Nein, keine Lust.
+
+### 2024/04/18 10:08:44 | Maja ###
+Ja, ich bin bereit!
+
+### 2024/04/18 10:08:45 | Alex001 ###
+In der Situation, an die du gerade denkst: ist der Stress dadurch zustande gekommen, dass eine persönliche Grenze überschritten wurde?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/04/18 10:08:49 | Maja ###
+Ja
+
+### 2024/04/18 10:08:50 | Alex001 ###
+Es tut mir sehr leid, das zu hören. Es ist jedoch ein gutes Zeichen, dass du dir dessen bewusst bist! Ich kann sehr gut nachvollziehen, wie schwer es dir fallen muss konkrete Grenzen zu setzen und zu kommunizieren. 😕
+
+### 2024/04/18 10:08:51 | Alex001 ###
+Wenn dir das Setzen von Grenzen neu ist, fang klein an. Du musst nicht sofort alles auf einmal ändern. Nimm dir Zeit, um zu überlegen, welche kleinen Schritte du machen kannst, um deine Grenzen langsam aufzubauen. Versuche diese kleinen Änderungen in deinen Alltag einzubauen.
+--------------------
+0. Okay, das werde ich zukünftig versuchen!
+1. Es wird mir schwer fallen, aber ich werde es versuchen.
+
+### 2024/04/18 10:09:05 | Maja ###
+Okay, das werde ich zukünftig versuchen!
+
+### 2024/04/18 10:09:06 | Alex001 ###
+Super, das klingt doch nach einem guten Plan! Du hast tolle Arbeit geleistet.
+Wir haben daran gearbeitet deine persönlichen Stresssituationen zu analysieren, Stressoren zu erkennen und Reaktionsmuster zu identifizieren.
+
+### 2024/04/18 10:09:06 | Alex001 ###
+Wir sind aber noch nicht ganz fertig 😉Wusstest du, dass Achtsamkeit dir einen Ausweg aus der Stressspirale bieten kann? In deiner Situation ist es sehr sinvoll, kurz darüber zu reden.
+
+### 2024/04/18 10:09:06 | Alex001 ###
+Alles klar! Am besten legen wir direkt los. Ich finde es großartig, dass du an deiner Achtsamkeit arbeiten möchtest.
+
+### 2024/04/18 10:09:06 | Alex001 ###
+Weißt du, wobei es sich bei „Achtsamkeit“ handelt?
+--------------------
+0. Ja, ich habe davon gehört.
+1. Ich bin mir nicht sicher.
+
+### 2024/04/18 10:09:15 | Maja ###
+Ich bin mir nicht sicher.
+
+### 2024/04/18 10:09:16 | Alex001 ###
+Das ist auch gar nicht schlimm.😊 
+Achtsamkeit bezieht sich darauf, den gegenwärtigen Moment bewusst wahrzunehmen, ohne zu urteilen. Es geht darum, sich auf das Hier und Jetzt zu konzentrieren, ohne sich von Gedanken über die Vergangenheit oder die Zukunft ablenken zu lassen.
+
+### 2024/04/18 10:09:16 | Alex001 ###
+Wusstest du, dass Achtsamkeit im Alltag sehr viele Vorteile mit sich bringt?
+--------------------
+0. Ja, das ist mit bewusst!
+1. Nein, erzähl mir mehr!
+
+### 2024/04/18 10:09:20 | Maja ###
+Nein, erzähl mir mehr!
+
+### 2024/04/18 10:09:21 | Alex001 ###
+Ich finde es toll, dass du daran interessiert bist,   mehr über Achtsamkeit zu lernen.👍
+
+### 2024/04/18 10:09:21 | Alex001 ###
+Achtsamkeit hat so einige Vorteile und viele davon sind sogar wissenschaftlich belegt. Achtsamkeit beeinflusst/fördert:
+- Dein Energielevel und deine Aufmerksamkeit
+- mit sich selbst im Reinen zu sein
+- deine Lebensfreude
+- eine positive Einstellung
+- deine psychische Gesundheit
+- die Stressbewältigung und Regenerationsfähigkeit
+- deine Resilienz
+- deinen Fokus, um Ziele leichter zu erreichen
+
+### 2024/04/18 10:09:21 | Alex001 ###
+Beeindruckend, oder? Gibt es bestimmte Situationen, in denen du achtsamer sein möchtest?
+--------------------
+0. Ja, ich habe eine Situation im Kopf
+1. Nein, mir fällt keine konkrete Situation ein
+
+### 2024/04/18 10:09:29 | Maja ###
+Ja, ich habe eine Situation im Kopf
+
+### 2024/04/18 10:09:31 | Alex001 ###
+Kannst du die Situation(en) kurz für mich beschreiben? 😊
+
+### 2024/04/18 10:09:46 | Maja ###
+Zuhause, wenn ich von der Arbeit komme
+
+### 2024/04/18 10:09:48 | Alex001 ###
+Danke, dass du das mit mir geteilt hast.😄 In solchen Momenten kann Achtsamkeit hilfreich sein, deshalb finde ich es wirklich super, dass du daran arbeiten möchtest!
+
+### 2024/04/18 10:09:48 | Alex001 ###
+Kannst du dir vorstellen, wie es wäre, dir einen Moment Zeit zu nehmen, um einfach nur zu atmen und dich auf deine Sinner zu konzentrieren?
+--------------------
+0. Ja, ich denke, das könnte ich hinbekommen.
+1. Ich denke, das würde mir eher schwer fallen.
+
+### 2024/04/18 10:09:56 | Maja ###
+Ich denke, das würde mir eher schwer fallen.
+
+### 2024/04/18 10:09:57 | Alex001 ###
+Das ist völlig normal. Gedanken sind oft überwältigend und führen dazu, dass man Schwierigkeiten hat, einfach nur im Moment zu sein. Der Geist neigt dazu, abzuschweifen. Aber Achtsamkeitsübungen können helfen, den Geist zu beruhigen und die Gedanken zu zentrieren.
+
+### 2024/04/18 10:09:57 | Alex001 ###
+Zum Beispiel können wir mit einer einfachen Atemübung beginnen. Würdest du das mit mir zusammen ausprobieren?
+--------------------
+0. Ja
+1. Nein
+
+### 2024/04/18 10:10:02 | Maja ###
+Nein
+
+### 2024/04/18 10:10:03 | Alex001 ###
+Ich verstehe, dass es schwierig sein kann an sich zu arbeiten, aber es lohnt sich! Du schaffst das 😉
+Sobald du bereit bist, gebe ich dir erste Anweisungen zu der Atemübung. Bitte lese meine nächste Nachricht und nehme dir dann so viel Zeit wie du benötigst, um die Atemübung durchzuführen!
+Schreibe „Ok“ wenn du bereit bist.
+
+### 2024/04/18 10:10:22 | Maja ###
+Ok
+
+### 2024/04/18 10:10:23 | Alex001 ###
+Super! Schließe einfach deine Augen und nehme einige tiefe Atemzüge. Konzentriere dich darauf, wie sich dein Atem in deinem Körper bewegt, wenn du ein- und ausatmest. Versuche, deine Gedanken sanft zu lenken, falls sie abschweifen. Lasse sie einfach kommen und gehen, ohne dich an sie zu klammern. 🧘
+
+### 2024/04/18 10:10:23 | Alex001 ###
+Versuche, dich nicht selbst zu verurteilen, wenn du dich gestresst fühlst, sondern das Gefühl einfach nur wahrzunehmen. Was immer du fühlst, ist berechtigt.
+
+### 2024/04/18 10:10:23 | Alex001 ###
+Wenn du das Gefühl hast, dass du dich ein wenig entspannt hast, gib mir bitte Bescheid.
+
+### 2024/04/18 10:11:15 | Maja ###
+Ich bin so weit
+
+### 2024/04/18 10:11:17 | Alex001 ###
+Ich bin stolz auf dich! 💪 Du kommst Schritt für Schritt voran. Ich hoffe du fühlst dich schon ein bisschen besser. Wie fandest du diese Übung?
+--------------------
+0. Die Übung hat mir geholfen und ich möchte nicht weiter über Achtsamkeit sprechen.
+1. Ich möchte noch eine andere Übung ausprobieren.
+
+### 2024/04/18 10:11:23 | Maja ###
+Ich möchte noch eine andere Übung ausprobieren.
+
+### 2024/04/18 10:11:24 | Alex001 ###
+Du möchtest noch eine weitere Übung ausprobieren – gar kein Problem!
+
+### 2024/04/18 10:11:24 | Alex001 ###
+Oft können Stress oder negative Gefühle sich auf das Körpergefühl auswirken. Dann fühlst du dich energielos und verspannt. Manchmal tun dann auch deine Gelenke oder Muskeln weh.
+Achtsamkeit kann dir dabei helfen, bewusster mit deinen Körperempfindungen umzugehen und führt zu deutlich mehr Wohlbefinden.
+
+### 2024/04/18 10:11:24 | Alex001 ###
+Bist du bereit für die nächste Übung?
+--------------------
+0. Ja - weiter!
+
+### 2024/04/18 10:11:29 | Maja ###
+Ja - weiter!
+
+### 2024/04/18 10:11:30 | Alex001 ###
+Super. 👍 Richte deine Aufmerksamkeit auf deinen Körper. Frage dich: „Was nehme ich momentan am deutlichsten wahr?“.
+Das könnte sein: Kribbeln, Pochen, Ziehen, Stechen, Pulsieren, Spannung, Entspannung, Wärme, Kälte, und so weiter.
+
+### 2024/04/18 10:11:31 | Alex001 ###
+Was immer du fühlst, ist berechtigt. Bleibe einige Sekunden mit deiner Aufmerksamkeit bewusst bei diesen Empfindungen.
+
+### 2024/04/18 10:11:31 | Alex001 ###
+Hat diese Übung gut funktioniert?
+--------------------
+0. Ja, hat gut geklappt!
+1. Nein, leider nicht so gut...
+
+### 2024/04/18 10:11:39 | Maja ###
+Ja, hat gut geklappt!
+
+### 2024/04/18 10:11:40 | Alex001 ###
+Gute Arbeit! 🥳Du kannst versuchen, diese Übung so oft es geht in deinen Alltag zu integrieren. Damit schenkst du deinem Körper täglich Aufmerksamkeit und verbesserst dein Wohlbefinden.
+
+### 2024/04/18 10:11:40 | Alex001 ###
+Natürlich kann achtsames Atmen nicht alle deine Probleme lösen, aber die Zeit und Mühe ist es Wert und du wirst langsam und stetig eine Verbesserung spüren!
+
+### 2024/04/18 10:11:40 | Alex001 ###
+Die Schönheit der Achtsamkeit liegt darin, dass du sie überall und jederzeit anwenden kannst. Selbst in stressigen Situationen   kannst du dir eine Minute Zeit nehmen, um tief durchzuatmen und dich auf den Moment zu konzentrieren.  😇
+
+### 2024/04/18 10:11:41 | Alex001 ###
+Geschafft! Von meiner Seite sind wir für heute durch. Es hat mir viel Spaß gemacht, mit dir zu chatten. 🤩
+
+### 2024/04/18 10:11:41 | Alex001 ###
+Wie hat dir unser Gespräch gefallen?
+--------------------
+0. Eher gut
+1. Neutral
+2. Eher schlecht
+
+### 2024/04/18 10:11:54 | Maja ###
+Eher gut
+
+### 2024/04/18 10:11:55 | Alex001 ###
+Eher gut – das freut mich! 🥳Ich hoffe das liegt daran, dass ich dir auch wirklich behilflich sein konnte. Hab einen wunderschönen Tag! 👋
+
+### 2024/04/18 10:11:55 | Alex001 ###
+_*HINWEIS*__: du kannst die Studie nun weiterführen, indem du auf "Weiter" klickst! _
+
